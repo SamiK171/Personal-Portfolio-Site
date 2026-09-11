@@ -3,7 +3,7 @@ A single-page portfolio site built to showcase my software engineering projects,
 Live site: https://samikhan171.vercel.app
 
 **About This Repository 🧑‍💻:**
-Designed and generated using Claude, customized and maintained by me, and Hosted on Vercel.
+Designed and generated using Claude, customized and maintained by me, and hosted on Vercel.
 
 # **What's Included 👓**
 Sections: Home, Resume, Projects, Education, About, Contact

@@ -1,6 +1,6 @@
 # **Sami Khan — Portfolio Site 💻**
 A single-page portfolio site built to showcase my software engineering projects, technical skills, and background as a Computer Science student at the University of Toronto.
-- Live site: https://samikhan171.vercel.app
+- Live Site: https://samikhan171.vercel.app
 
 # **About This Repository 🧑‍💻:**
 Designed and generated using Claude, customized and maintained by me, and hosted on Vercel.

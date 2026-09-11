@@ -19,4 +19,3 @@ Designed and generated using Claude, customized and maintained by me, and hosted
 # **Contact 📤**
 - Email: iamsamimk@gmail.com
 - LinkedIn: https://www.linkedin.com/in/sami-khan171/
-- GitHub: github.com/SamiK171
